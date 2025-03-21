@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Dripta</h1>
-<p>A passionate frontend developer ...</p>
+<p>I am currently working on Frontend Development ...</p>
 <p>🔭 I’m currently studying at Jadavpur University.</p>
 <p>👯 I’m looking to collaborate on any frontend projects.</p>
 
