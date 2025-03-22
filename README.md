@@ -21,6 +21,7 @@
 <a href="https://auth.geeksforgeeks.org/user/patrad8h06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="patrad8h06" height="30" width="40" /></a>
 </p>
 
+<h2>📊 GitHub Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dripta05&show_icons=true&locale=en" alt="dripta05" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dripta05&" alt="dripta05" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dripta05&show_icons=true&locale=en&layout=compact" alt="dripta05" /></p>
